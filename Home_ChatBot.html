@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music Tutor Chatbot</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(135deg, #4e54c8, #8f94fb);
+      color: white;
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .container {
+      text-align: center;
+      max-width: 800px;
+      padding: 20px;
+      z-index: 2;
+      position: relative;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+    }
+    .cta-button {
+      padding: 15px 30px;
+      font-size: 1rem;
+      color: #4e54c8;
+      background-color: white;
+      border: none;
+      border-radius: 30px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.3s ease;
+    }
+    .cta-button:hover {
+      background-color: #f0f0f0;
+      transform: translateY(-2px);
+    }
+    .music-icon {
+      font-size: 4rem;
+      margin-bottom: 20px;
+      animation: bounce 2s infinite;
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container" id="welcomeScreen">
+    <div class="music-icon">🎵</div>
+    <h1>Welcome to MusicTutor</h1>
+    <p>An AI-driven music tutor personalized to your learning preferences.</p>
+    <button class="cta-button" onclick="window.location.href='new_chatbot.html'">Start Chatting 🎶</button>
+  </div>
+</body>
+</html>
