@@ -2,6 +2,14 @@
 An AI tutor for you music learning
 
 
+
+<img width="1919" height="995" alt="Screenshot 2025-12-11 200132" src="https://github.com/user-attachments/assets/690f6774-0c2e-4912-b3ed-79433e833e54" />
+
+
+<img width="1919" height="996" alt="Screenshot 2025-12-11 200146" src="https://github.com/user-attachments/assets/968abc3e-2747-4f84-bd4e-36900ac04632" />
+
+
+
 🎵 Music Tutor - AI-Powered Music Learning
 A beautiful, interactive chatbot that helps you learn music theory, instruments, and practice techniques using Groq's powerful AI models.
 
@@ -132,3 +140,7 @@ API responses typically arrive within 1-3 seconds
 The AI has been specifically prompted to focus on music education
 🌟 Enjoy Learning Music!
 Start exploring music theory, improving your technique, and becoming a better musician with your AI-powered tutor!
+
+
+
+
