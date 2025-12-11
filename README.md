@@ -7,12 +7,20 @@ A beautiful, interactive chatbot that helps you learn music theory, instruments,
 
 ✨ Features
 AI-Powered Tutoring: Get instant, expert answers to your music questions powered by Groq's llama-3.3-70b-versatile model
+
 Clean Chat Interface: Beautiful, responsive design with smooth animations
+
 Quick Suggestions: Jump-start your learning with common question prompts
+
 Dark Mode: Switch between light and dark themes for comfortable learning
+
 Real-time Responses: See typing indicators and get fast AI responses
+
 Conversation Management: Clear chat history and start fresh anytime
+
 🚀 Getting Started
+
+
 Prerequisites
 Groq API Key: Get your free API key from console.groq.com
 Sign up for a Groq account
